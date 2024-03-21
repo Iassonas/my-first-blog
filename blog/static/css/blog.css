@@ -5,6 +5,10 @@ h1 a, h2 a {
 
 body {
     padding-left: 15px;
+    background-image: url('/static/images/bib.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 .page-header {
